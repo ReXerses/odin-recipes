@@ -1,10 +1,10 @@
 # odin-recipes
-1)Creazione di una pagina di ricette culinarie
+## Pagina di ricette :spaghetti:
+Creazione di una pagina di ricette culinarie in HTML base.
 
-1.1)Costruzione della struttura base HTML piu` il primo heading
+## Riflessioni :coffee:
+Questo e` il primo progetto assegnato dal percorso "Odin Project". Ho imparato come creare una
+struttura base di HTML, ho acquisito dimestichezza con il terminale, come aggiungere paragrafi, immagini, link e liste sia ordinate che non.
 
-1.2)Creazione file html relativo alla ricetta scelta piu` href (relative)
- . .nella pagina principale index
-
-1.3)Popolamento della pagina "Ricetta Carbonara", inserimento di immagine,
- . .lista non ordinata per gli ingredienti e lista ordinata per il procedimento
+## Tecnologia usata :desktop_computer:
+- HTML
